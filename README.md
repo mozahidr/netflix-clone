@@ -1,7 +1,7 @@
 # Netflix Clone Portfolio Project
 
-# User can signin and singup with the email and password. All the user information will be store in firebase
-## They can see the full movie list coming from TMDB databse
+# Users can sign in and signup with their email and password. All the user information will be stored in the firebase
+## They can see the full movie list coming from the TMDB database
 ### Users also can subscribe monthly plan and checkout with stipe payment
 
 # Live demo linke: https://netflix-clone-portfolio-d205b.web.app/
